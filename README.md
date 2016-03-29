@@ -6,4 +6,6 @@ Afterwards, please run the script "test_with_partial_observations.m". Again, by 
 
 "recordTrajectory.m" allows the user to draw trajectories with the mouse. You can use this script to generate your own training and test trajectories.
 
+This code was tested with Matlab R2015a.
+
 For more information about this work, please refer to http://www.ausy.tu-darmstadt.de/uploads/Team/MarcoEwerton/ewerton_iros_2015_proceedings.pdf
