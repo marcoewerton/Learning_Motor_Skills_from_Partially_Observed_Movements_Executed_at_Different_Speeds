@@ -5,3 +5,5 @@ Please, run the script "training.m" first. When 100 EM iterations are over, you 
 Afterwards, please run the script "test_with_partial_observations.m". Again, by pressing a key on the keyboard, you can see the next test case. In those tests, the algorithm is predicting the rest of the trajectory given the observation of the first 50% of the trajectory.
 
 "recordTrajectory.m" allows the user to draw trajectories with the mouse. You can use this script to generate your own training and test trajectories.
+
+For more details on the algorithm, please refer to http://www.ausy.tu-darmstadt.de/uploads/Team/MarcoEwerton/ewerton_iros_2015_proceedings.pdf
