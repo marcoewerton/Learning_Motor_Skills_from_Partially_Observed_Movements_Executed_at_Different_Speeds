@@ -10,4 +10,4 @@ The videos "approximations_to_demonstrations.avi" and "test.avi" show the result
 
 This code was tested with Matlab R2015a.
 
-For more information about this work, please refer to http://www.ausy.tu-darmstadt.de/uploads/Team/MarcoEwerton/ewerton_iros_2015_proceedings.pdf
+For more information about this work, please refer to http://www.ausy.tu-darmstadt.de/uploads/Team/MarcoEwerton/ewerton_iros_2015_hamburg.pdf
